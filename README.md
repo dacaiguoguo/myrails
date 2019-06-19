@@ -1,0 +1,2 @@
+# myrails
+myrails test
